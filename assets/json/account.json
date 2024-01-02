@@ -1,0 +1,52 @@
+[
+  {
+    "nama_akun": "facebook",
+    "username" : "nowan",
+       "email": "Exampleaccount2123@gmail.co.id",
+    "password": "ad21o8udsad"
+  },
+  {
+    "nama_akun": "facebook",
+    "username" : "adwan",
+       "email": "Exampleaccount4423@gmail.co.id",
+    "password": "9wruwrasd9"
+  },
+  {
+    "nama_akun": "facebook",
+    "username" : "nowanda",
+       "email": "Exampleaccount2293@gmail.co.id",
+    "password": "92323aos"
+  },
+    {"nama_akun": "facebook", "username": "ava_brown", "email": "ava_brown@example.com", "password": "12345678"},
+    {"nama_akun": "facebook", "username": "david_white", "email": "david_white@example.com", "password": "p@ssw0rd"},
+    {"nama_akun": "facebook", "username": "emily_doe", "email": "emily_doe@example.com", "password": "pass789"},
+    {"nama_akun": "facebook", "username": "john_doe", "email": "john_doe@example.com", "password": "abc123"},
+    {"nama_akun": "facebook", "username": "olivia_smith", "email": "olivia_smith@example.com", "password": "secure123"},
+    {"nama_akun": "facebook", "username": "bob_jones", "email": "bob_jones@example.com", "password": "qwerty"},
+    {"nama_akun": "facebook", "username": "henry_smith", "email": "henry_smith@example.com", "password": "lkjhgf"},
+    {"nama_akun": "instagram", "username": "john_smith", "email": "john_smith@example.com", "password": "qazwsx"},
+    {"nama_akun": "instagram", "username": "mia_smith", "email": "mia_smith@example.com", "password": "pass4321"},
+    {"nama_akun": "instagram", "username": "sophia_brown", "email": "sophia_brown@example.com", "password": "pass456"},
+    {"nama_akun": "instagram", "username": "benjamin_wilson", "email": "benjamin_wilson@example.com", "password": "poiuyt"},
+    {"nama_akun": "linkedin", "username": "daniel_wilson", "email": "daniel_wilson@example.com", "password": "pass987"},
+    {"nama_akun": "linkedin", "username": "mia_doe", "email": "mia_doe@example.com", "password": "pass5432"},
+    {"nama_akun": "linkedin", "username": "michael_evans", "email": "michael_evans@example.com", "password": "p@ssword"},
+    {"nama_akun": "snapchat", "username": "charlie_wilson", "email": "charlie_wilson@example.com", "password": "letmein"},
+    {"nama_akun": "snapchat", "username": "emma_jones", "email": "emma_jones@example.com", "password": "987654"},
+    {"nama_akun": "snapchat", "username": "sophia_doe", "email": "sophia_doe@example.com", "password": "pass5678"},
+    {"nama_akun": "snapchat", "username": "william_jones", "email": "william_jones@example.com", "password": "zxcvbn"},
+    {"nama_akun": "twitter", "username": "alice_smith", "email": "alice_smith@example.com", "password": "pass123"},
+    {"nama_akun": "twitter", "username": "dylan_doe", "email": "dylan_doe@example.com", "password": "pass9876"},
+    {"nama_akun": "twitter", "username": "logan_smith", "email": "logan_smith@example.com", "password": "asdfgh"},
+    {"nama_akun": "twitter", "username": "olivia_brown", "email": "olivia_brown@example.com", "password": "654321"},
+    {"nama_akun": "whatsapp", "username": "ava_wilson", "email": "ava_wilson@example.com", "password": "pass6543"},
+    {"nama_akun": "whatsapp", "username": "david_white", "email": "david_white@example.com", "password": "p@ssw0rd"},
+    {"nama_akun": "whatsapp", "username": "emily_jones", "email": "emily_jones@example.com", "password": "music123"},
+    {"nama_akun": "whatsapp", "username": "james_doe", "email": "james_doe@example.com", "password": "qwer1234"},
+    {"nama_akun": "youtube", "username": "ava_brown", "email": "ava_brown@example.com", "password": "12345678"},
+    {"nama_akun": "youtube", "username": "chloe_brown", "email": "chloe_brown@example.com", "password": "pass8765"},
+    {"nama_akun": "youtube", "username": "john_smith", "email": "john_smith@example.com", "password": "qazwsx"},
+    {"nama_akun": "youtube", "username": "mia_smith", "email": "mia_smith@example.com", "password": "pass4321"}
+  
+  
+]
